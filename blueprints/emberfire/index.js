@@ -54,7 +54,7 @@ module.exports = {
           "    apiKey: 'xyz'," + EOL +
           "    authDomain: 'YOUR-FIREBASE-APP.firebaseapp.com'," + EOL +
           "    databaseURL: 'https://YOUR-FIREBASE-APP.firebaseapp.com'," + EOL +
-          "    storageBucket: 'YOUR-FIREBASE-APP.appspot.com'," + EOL +
+          "    storageBucket: 'YOUR-FIREBASE-APP.appspot.com'" + EOL +
           "  }," + EOL +
           EOL +
           EOL +
